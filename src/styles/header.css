@@ -1,0 +1,8 @@
+.header {
+  color: #000;
+}
+.header__content {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=header.css.map */
