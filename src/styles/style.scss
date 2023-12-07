@@ -104,14 +104,14 @@ ul, ol{
         font-style: normal;
         font-weight: 700;
         line-height: 70px;
-        top: 110px;
-        right: 110px;
+        top: 22%;
+        left: 25%;
     }
 
     &__text{
         position: absolute;
-        bottom: 170px;
-        right: 110px;
+        bottom: 35%;
+        right: 20%;
         text-align: start;
         color: #FFF;
         font-family: 'Montserrat', sans-serif;
@@ -218,7 +218,7 @@ ul, ol{
             padding: 15px 20px;
             position: relative;
             border-radius: 6px;
-            border: 1px solid black;
+            border: 1px solid rgb(36, 20, 20);
         }
     }
 }
